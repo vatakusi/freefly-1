@@ -2,3 +2,8 @@ body {
     background-color: black;
     color: teal;
 }
+
+h1 {
+    background-color: teal;
+    color: azure;
+}
